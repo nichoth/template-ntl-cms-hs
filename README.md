@@ -1,4 +1,13 @@
-# gz
+# template ntl-cms hs
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5060c9a7-4c5a-4026-9984-851fc3b64cac/deploy-status)](https://app.netlify.com/sites/gzzz/deploys)
+A template featuring...
+
+* netlify
+* netlify-CMS
+* html rendering with hyperstream
+* sass for css
+
+## install
+
+Clone and then change the git origin
 
